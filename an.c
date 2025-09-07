@@ -1,5 +1,5 @@
 //Experiment 1-3 by Adit.27411
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
