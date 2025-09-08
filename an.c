@@ -13,7 +13,7 @@ int main(void)
     printf("Age: ");
     scanf("%i", &a);
 
-    printf("Hello, %s. Aged %i.\n", &n, a);
+    printf("Hello, %s. Aged %i.\n", n, a);
 
 }
 
