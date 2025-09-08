@@ -1,7 +1,7 @@
 // Experiment 1-1 ny Adit.27411
 #include <stdio.h>
 
-int main()
+int main(void)
 
 {
     printf("Hello World\n");
