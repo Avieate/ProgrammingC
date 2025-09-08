@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main(void)
+
 {
     char n;
     int a;
