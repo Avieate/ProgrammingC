@@ -14,6 +14,5 @@ int main(void)
     scanf("%i", &a);
 
     printf("Hello, %s. Aged %i.\n", n, a);
-
 }
 
