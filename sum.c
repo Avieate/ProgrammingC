@@ -12,7 +12,7 @@
 
     printf("Second Number: ");
     scanf("%f", &y);
-     {
+    {
          printf("Sum = %g\n", x + y);
-     }
+    }
 }
